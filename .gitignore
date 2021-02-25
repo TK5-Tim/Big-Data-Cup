@@ -183,7 +183,7 @@ dmypy.json
 .prof
 
 ### vscode ###
-.vscode/*
+.vscode/
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
@@ -191,3 +191,6 @@ dmypy.json
 *.code-workspace
 
 # End of https://www.toptal.com/developers/gitignore/api/vscode,macos,python,jupyternotebooks
+
+## project specific 
+womens_data_cleaned.csv
